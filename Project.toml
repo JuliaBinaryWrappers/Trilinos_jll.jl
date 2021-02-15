@@ -1,0 +1,16 @@
+name = "Trilinos_jll"
+uuid = "b6fd3212-6f87-5999-b9ea-021e9cd21b17"
+version = "12.12.1+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+SuiteSparse32_jll = "ca45d3f4-326b-53b0-9957-23b75aacb3f2"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"
