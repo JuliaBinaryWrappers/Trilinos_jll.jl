@@ -2,7 +2,7 @@
 export libamesos, libaztecoo, libbelos, libbelosepetra, libepetra, libepetraext, libifpack, libisorropia, libloca, liblocaepetra, liblocalapack, libnox, libnoxepetra, libnoxlapack, libsacado, libsimpi, libteuchoscomm, libteuchoscore, libteuchosnumerics, libteuchosparameterlist, libteuchosremainder, libtrilinoscouplings, libtrilinosss, libtriutils, libzoltan
 
 using SuiteSparse_jll
-using OpenBLAS32_jll
+using libblastrampoline_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Trilinos")
 JLLWrappers.@declare_library_product(libamesos, "libamesos.dll")
@@ -31,7 +31,7 @@ JLLWrappers.@declare_library_product(libtrilinosss, "libtrilinosss.dll")
 JLLWrappers.@declare_library_product(libtriutils, "libtriutils.dll")
 JLLWrappers.@declare_library_product(libzoltan, "libzoltan.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(SuiteSparse_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(SuiteSparse_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libamesos,
         "bin\\libamesos.dll",
