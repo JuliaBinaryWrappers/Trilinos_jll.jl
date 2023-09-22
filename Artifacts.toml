@@ -1,933 +1,317 @@
 [[Trilinos]]
 arch = "aarch64"
-git-tree-sha1 = "fa43bf4249cf841334cd3d8f27f1fd6ae885f9e4"
+git-tree-sha1 = "a6f256799544bcb26b290272612c7f6286da7801"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Trilinos.download]]
-    sha256 = "cf43b7c5dc8b74896530c1a494566f560a66e3923a2ed908fe4388bb9d8bd834"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "8b2be91f46cfe6102975c7d747ce13b123c5d8d259cb69a953a18816848c91e6"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Trilinos]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0390b7724c97845d09b1afa76472e2f8915d9d7a"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "897a203607b5f9c499852d861dda076a6c660b31bbecbcce87832f42890075d7"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a86b1bf579dc904539010cc0c745df9c94e9e1bb"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "b5b2c7b7521e8a2b7294ef5dc1bfabd7a8f0a49d91e435d0eea82ba5574b71de"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d030841598a7d7d9628560d61de921e31742458"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "a9822c17f3f12721d8294ba4469433f2058e0e4c375adeece3c40467958f84dd"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ec290fac5c4c61da7416a9e6776794d0fb12a6f"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "dd0ddd53d993aee3a273e895db07c36549ed9b1357dd84bf119af236f0227073"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1893340c87cd723c24ec4b1aaea98a93a639eb93"
+git-tree-sha1 = "9e53c107b9b158927c412295bad87c50bc249b15"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "9880e60b2438368fe37281423ac2694ccbad226433bbb2f24d3d5df092ce5bc4"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "7e1effdea1b1b6872d7a9f8ffc8cb98d25adc715f376464de3ade79bff6ebfa1"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "63324e642a18592bf67f89d28c7f4607c4ee52b0"
+git-tree-sha1 = "bead2317a84b27bea3dfcc9d4cb9ff77a145c871"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "8ba163477bbb193b04d05727f06219ca55981331f40f04653094e6783c4e4250"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "0c76d18422ee45d2301a579b262b525f84dd6587aec73cf204be0222934dbe87"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb0322120c465c6cc7c29a331dd9669dabdeb59e"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "2916092538f59a855d6a544790007ace64ffda6e753209d71300efc2bd032b8c"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "35991e381429bd6506f0d21db03e9caa34232799"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "34f59c484839b9467e9c221554db6f1c2c853d26730883c07e7a76fd30546f71"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6018109351f1a31c4fa11823c21f0878665c85e4"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "aa2338b14c4d2e1e926f54cd44527562f378056650225784a282c1e973be6cc1"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c47f1d27975d9efb9d29425ba9e54ba90d300464"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "cd9d442195acbf0f4245973fbd2ae3cb8c5780e2c5c0bb9c12eb7cd991df21bf"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc8adcef100600578b3c1f58ef99a90c314b11b3"
+git-tree-sha1 = "aac8f9a65a16050f19fa334cae385b364980fa7c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "721677df66751f2fed05f086a2014c57e91df99fb480068b384bebb8664f7660"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "46bf80c992c30101ae9858436f554aed0a6b58812ecc28c40702d48cbb86eb69"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "94cf9d0db3e27b4330d00132b8043f443aef96f7"
+git-tree-sha1 = "c18a9e2a165435baca159f1c24180916d9a6d93d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "f1f51f50768c720caa4fd1f1bfcadc234a3ce1b48e47747cae05ca1f6722e527"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "8c9aff1b361f3c9fa1031c709d787560368de6f9b492f2715c9116e9825e873b"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "51937c2e44925538d8d72418018a4829de9fb0c2"
+git-tree-sha1 = "721a167f01913f9695c91476a21a1b84163eb441"
 libc = "glibc"
-libgfortran_version = "3.0.0"
+libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "0845f44b12ef7ef1d06e25bc3b0024b341c3e03e26f713cd85876d09ab908075"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "2dbee901dc2a94c1341cff4f4fbbd16984528c6f81b4e2267fc64e74e8ec7c89"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0c292d2581327df9ce1ce510ce33d56431975472"
+git-tree-sha1 = "177618c2547fb95446f877ec29dae17f8c98b338"
 libc = "glibc"
-libgfortran_version = "3.0.0"
+libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "eda2f746efa19fa78944c9b782ac4698b987a6118ac51952e3716011ea37547b"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "4d22e093c17fb20815296ef13f0eed4779df4763c09cf7f7f2ad9ae1fa7e8dea"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "60b0b965dde248a7315d32a2be956a7d6397e373"
-libc = "glibc"
-libgfortran_version = "4.0.0"
+git-tree-sha1 = "a00d77f2d81f503a1ec21d926551274792cf5743"
+libc = "musl"
+libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "9914cfe114cd65d1fce93353ae9ccd3843562a6662598bc838c30bd3a123a3ed"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "773fc094a324fb0f92addf4acc37dc2b114a6ccc42515f7911faf706f98cf2a8"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f459cb2968006a638f6d01be345089877db21e3"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "c4e7d12d963b70593318dd8b9b6d466d7f1c6e300ff9a0109881056c5c901b41"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "80b203e4445faf0dec78b27a953f9f1ed46244dc"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "8a2300bd227cf79cb7c49372bb701ee1b005686ac6efadff68f60f48bbebb2ff"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "82289842bf594458dc47822547947a87e1cccdf2"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "cb0e8a6905ddfe7438701752ea13e14fb7fbbad35db2324e6005e55d325135fe"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3d4cf3e2080dd172500d472b11f47b2d38e4ec77"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "b5352d80e00f803a38db5ee93f080247c29f0df124d95475dda74bb30d241aa1"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "900121456132d239b7bbe301024d1f56759dfde6"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "2fbd5e390fab26c5b7d5145eeac62e573685cfd5f4da57436ed2ab6707446557"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8e40b343bc9932a89b3d2cdb3c22d2c0f0616464"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "bafc1c8f98885a2fd2a25aa8cb17ac73ba017b95697a8e2bd849fb31f9deb398"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "05713cc46e59eec94b7d037989b940af2edd33c4"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "c256426d524500ec04115dc68dcc77cbb173c675bcbc2b6a04957091f8408ce6"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f3bdc646924af0a40c29dcad8a2dbbf9be6dd42e"
+git-tree-sha1 = "afc8e017441e224ff586563a1c22361ecdddb81a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "23b2e133cf2e7e3000e4f158c8c504c24e485a7f53b5d6f4118ab6da04a8a51e"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e1b1d70c1c56be333ed10b98578daa68f8f4999"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "804731a03b8b783568ea2e2dc72a00392453b346fc136e651fe28aecd4abed73"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "3b6cc7c6d7857b783762d4e4f1521dd020e6286be6da7b4aac99dab60b9813fe"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3443bee5413aea1c3d303a1fe38040110529f155"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "4bf142fdb3a1a7d17135870143cb287db3127a1a4bbfd3bbe98ccc2eae2e8af2"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cc9b51428823af71ce89e1c3b6895ed73e8bf3b"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "4ff7ab7286726c7641948a9d9acca20239ad4f6f6316aa6e4453d7db345accaa"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b4e05113db4aedd29d1314ef37b9e77947474935"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "4133fa4d7451f1663104f6ae3914e03fa9bdbc39f775da1b9d0b4ef9133c871d"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "83b148b88301eaf6c8d384bcbc97c88a0ad9079d"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "017d7cb7937f0dc4f0ff619834943ff7bec6584071f58c1a0e25f89457544d56"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1b1722a281937efcec01a3664b3d604a87eb40ce"
+git-tree-sha1 = "955976eeec1c8fc44cc49ef2b2721431afe13a5e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "c429a59cc17375f9126e07d0befbfeb5a8b554071fe30d47ffd613d0929062a0"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "d3e488a19563140f1629f875b0e2700165f9f75bcdaebcf6089d66c6bc0ab526"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4563177c5919fb039fe5f9b1b3bc7ed0f39e9ee0"
+git-tree-sha1 = "3a01fb94d54c03a3da342cb3f48f30f3e1586203"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "fecbb66177b890a5eb51dea11b726ccd47e00a5a58a476251ce1a05b15e55418"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "09afc064c42ab302992295b9d5f087675f4346bc4c28f5fc6a33c2068f50826f"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "890385c22c04eaebcbb1c6361f0f411638073e13"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "79a773ef33046644f506147237ceb2b8d914d24b52f6de973ae3f5b7776a97ef"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ed0d6ff4a7c4766c2bad820a5fcb396c90d14a57"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "75863fcb33dab1c7bae982947aafd1a66b2e90a13853b93582d905ce0f21e965"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef0aa6af57128ebdcbaebb8658f8735f702c1941"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "9532a286b979d49a30d483d35fdb1402527bec037f975e24b535c1316c31c659"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "94132ef76815be7a83526228111731e2f50e3e75"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "8db4ddc82cb8d1568242ec00353ff23a81c01a845311e9c47492cf14d464cb49"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8cc7eb655efd593fce2a32afdc1565eaaa2983dc"
+git-tree-sha1 = "f4ca8785f5f7af82fc8563933a13fa6d4c602468"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "6cb7af2f155511f94d7fd85b2d164c300e4196d2a4872d5321a756fd360d93b9"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "6ba4a283d06b5d2a512fb9f39356704cd4aea7b8faf92d389adc8fcc4f0f3090"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c358400e5ff60f6ebe412825f8a4d0fc3582209"
+git-tree-sha1 = "7c7e7326bcce0d0ba1a2e42fa2bd0cecc5ae6ae5"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "53bf877a43048235c5410c5a3f4cdc9848a6e042a5933a6eaec1ffd6b0502be2"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "2d78dc33b252d2265a34e6238ae95f4e9a67f2496da3e521a4fdc09083c4b233"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dba680e6c2137d9e38c83ca30a27590de6ee71ea"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "5604c23db3be7eccd9cd917b83589ee4f0bd5f52bff6cbd87bb361adb9350326"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "61c6909b5f571d80bc6e0c29de7f00fdc43e788c"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "96d05e4bd4ad88779f9a516f1a510b1380713f4a4cfa9ab77f6f5b7b4e598f71"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "402865ffb1d59738e4cc11954fb1a141de43c7c5"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "abc972ac18a28682972d28fbfa5008c85947a3d6418ac19929eb26723a7408e2"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a2ffd8d814dfe506df510e107f56ab84c838f1d"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "a11b5710cbaf916e671f7bb3f071c23f9869ec5a7766e27e153a01266a5fd8ef"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "85598edfee5c08d1d63f7fe3222d1c762e4e8187"
+git-tree-sha1 = "b3d3bc77be351d136921b1c8184d2c6b14ac0fda"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "b5a20e7da2fa5e0727c8c09239507a0cf583e084237f181f1e901f3bf9982d02"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "dc467a0a339c75cc5c343261e88d8c0bf719f1f9fbfb16e4f0242a8d25ba0c47"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e1357b98ac24c65d2a0921853a8b39c01678d0a"
+git-tree-sha1 = "9a0cbd4dfd7fb1fdf2b52033eb0a98fa1e559d6b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "d5cdb1c9e814e8ecaac8abb1b9f470f1c35cb22633bae804cafc056cf471dc68"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "d48764a5afe5c29cd7b120826b249987453faeedfcffd90ee5e13a6b8ae5cc1f"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9096d0cd408d8ce45b6f3cdac62a7245d36394c8"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "0e841e7e4cec029bc034368a098e6604d0a93f09d36d2d34707221654f34d09f"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-musl-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8819173a726d304c69cb8d83c37e7e3a411eef49"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "70d2b38c3f6e9da6911166f2f3a27387d61fd82425eeecd19c2ccc4741e49184"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-musl-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d655ed23c12e858fe47763f9606d064301a7643a"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "450e288d97faad57be4381791aac4ef2ba1b867bb13e8586e0141049aefd0b68"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-musl-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b6bcb5a8e60bb9a55a8aaca3568a34c36519559"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "11657782ba5578efad85c467706b4d1411ff1c2c11ad7c005d3c621d2bfa2a5a"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-musl-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "90bf49dac8d4bd3e900ff67a096c4f2102bc206b"
+git-tree-sha1 = "880f3a4fa4fa3b8c7722b4afc7d6dc69040db226"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "bf4b3ee70e0ce189329714f0c00e260136f3da1065fb493171b5f19294d0cf6d"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "94a4e40f7b6340d03307005ea265ed8c622291f6067168afbc0a984974c54ccb"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.i686-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "250e7e18881248e9785ba4381087ed4dd3369779"
+git-tree-sha1 = "72d2c8bcb0ca7aa75f03a353c2d273590dd99e97"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "cca9c2f302d8f5b02bd792341c4fc0cf3aee71bd02c25bdf2d56cdb056bda3cf"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "8d4953b040fcedb5cbe6be67a281e9c85a49ac1494d6274277c79e0199567805"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "da3acd844fe952452e04f78d92260110472184bb"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "a90bb2f8e3d499c8bd2c71f00ba94f7873c6ce72e388fd0f7cd99941095559fd"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b28f87329a961e5e6e25a70b128f9bfdc09a9d04"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "7dac775b9c1df1ff7512a1af53de6048eef7a91447a349530bfbf981095fdd18"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad732c2820ab33e7f483652a41903a5fa14477d8"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "70a8d681c5e6ef08352fa95e5fd8bc98ee0d1d5df5416fd1d888d0d4a8131e43"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "262c1206160ebcc52ebb045c1d4663ceb3c1ba01"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "bd1ebc0d5e2228bd2d3020d1b91ccd1bafa14338709266e69d40b56830cc3179"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "84b54c745982dd190bb467758312837f281ae09f"
+git-tree-sha1 = "b87e4ce6b42949c95686a9bdadde44f14afb7057"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Trilinos.download]]
-    sha256 = "df36439abaf9c081d6df7ca6d9fd607a82fb0e052f9239e924ce617464c33b96"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "426e841e144669765f7667660fbe0bcd110d1c61c291d115f5eee56796eac067"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "888d6cd2463f3beec7e7cb0093a9349206fbb5fa"
+git-tree-sha1 = "9940304bf2f25857dbdd8fbb54d731735ef471a6"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Trilinos.download]]
-    sha256 = "1086c785ff8ea41c7936ff6a4a70612023cf8dd1c8e40cf871f8b07710dd44db"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "b28d588ab3db68bf73982beb3221432dbbc26b2780f19faa51c245648a0c4e5c"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "118b39f731e2dd3c45a37b9ff38a680e8425125f"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "7dc77dd74b3cfe4fb5a630ca193391c13016a17aafcf5934c491d7b31555d9f9"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "957c6ab9e1f2959b9dd32d27281f9b9474366dea"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "2accbeed64be0da6c7e1aa6ba10b749de4b7cbd09d557dbcefd97b4ec8ea9d4f"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4445bedd2aa5e0e202549e5c390061b35eb61e51"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "4fa5d248b2565b56bc94ab7f226ee72aa23eadf58dd17c7772a03a389e9dc5db"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "44f81134c3cd778c0c44e1af55f9a951289e6d21"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "c532bcb07226d4a338db8741d87814f70e69443a370f65e00779e6914305a292"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b42d5852d48a004ef2b0883034e4223defa89863"
+git-tree-sha1 = "3118172c7813ca16fe6cd0d464421f5733969404"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "b096459fdae7f88031777f67784b010e81f34cdab04101879fd176b1f31a9561"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "9ebbd260b32ca3a95b7ea34914d820d69165a6090fbe74f799f1ae787d33f8fd"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70aa161d102a2a6c56a6babd5f43f912ddaa04ea"
+git-tree-sha1 = "a907d50499a237864cf2ea6981031372c636397f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "16e78e1caff13e7b08f7c3e4857977ec15889767f2aa4008fc258c0107b8ba81"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "e8e78dbcb13e6537c186a469dfa4f63ca67d9148df7a1c21b14d34765742300d"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
-git-tree-sha1 = "4090831ec347dae25b5cc848c0e6f0a8c327da29"
-libgfortran_version = "3.0.0"
-os = "macos"
-
-    [[Trilinos.download]]
-    sha256 = "9463836c326cbeb77bb3093da7f6fa0475019460d23bc5e06f3c544609d39c01"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-apple-darwin-libgfortran3.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-git-tree-sha1 = "97ccd2248b92e721f56041a16fdd7a5472cf064d"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[Trilinos.download]]
-    sha256 = "b8e8b277c668cc2e01c94ca0f3d2334f513cabc8bfedb3a04f2c0f61d1757ee6"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-apple-darwin-libgfortran4.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-git-tree-sha1 = "0c9b06a102600f5c5a778b61ffea4faa193a66ab"
+git-tree-sha1 = "2e56b6e99804304c46322b059c305ef300c96d14"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Trilinos.download]]
-    sha256 = "1a3903a9724e42be955088ff1f21f8ddb3a901264ffbdf1c6f49ec8caaab0386"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "56b05a138b6f99508b978138005406b685cedca9e76d067dd29e77576bffba9c"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4686abcd5bfb6be44bfd0ba44e88ed9ca1b53935"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "7d60dbcbeb1d5cc598f5b4e817a8bae8603bc3993b67422a48c31511c9e3220c"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "32f1851c315ebd8740f0c0422ec8f925fcd1e786"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "e3ae29e04335236f9eaf780f777137d56f7c4345b11a98be0ed370e9b4766b56"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7402f4e6ec7df67a6ae5d5bccddecfabc1a30b3"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "a65fb723c81e2086b336b7c041ea1648cf48f6e532d749ed9b689a675b198f16"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c083433ee505de82a0fbdc4ad83533a219cbe2cd"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "8a86444c3f8ba4137ec649359607f508bdec461488e0a426b83e16f859217685"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c89b5bb5f27bb592666d05314eade7861eb40dc4"
+git-tree-sha1 = "3c9fb049b99fa7c21f17960d738334d25fe40c3e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "f5d6810c765f7355206676423b0b85dfcbaad6c95e5f083e7b50a9ee46a8768e"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "e3f87793937863909a1ec8b072613c5d26c903698d23009114216f6e01ab21e3"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a81fcfce4a20563e7087b76bcb2da6b91452954f"
+git-tree-sha1 = "00e5824ed0a638c5a8cc88a9ff65673002202828"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "3cdab7553f1baf35cb7333558448c1c013d09e5df879218321f1d3fc9fca34ff"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "21d776463b74154b2f47db3bcaf6118e92bbe81814348276cbf58a2f6f5a58f1"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c62848745f6151b3c658bd6e8d61be8bc13a7dbb"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "cb82588478ac6d70f76316153ce146d6e9ef0326ab199af1f49c5834e622e706"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a92df0ed4a042da4dd1f202ab59402b91ce67518"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "2c0685a0bbbfb92ad89b681959b342d4914766a2e7a98cb0a34d8031967a9626"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "349d8da7835b11f43184344e1a7a9b3157533841"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "8ffce205a405f18b77638d4e05a2c860c591527ecd280d20ebbb4edc67f4d009"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f2cfdd686158b4bf7900f5d5d6a2516fdec578e"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Trilinos.download]]
-    sha256 = "633de4efd96b183542e0a81a65e298c522d472ebc6d0784f0d65410f9aaa22a8"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6cb3c7d961f1914885d31ab64da2bde06d3c015f"
+git-tree-sha1 = "a5a69f67ffae1a48129783844d09c341684a0a31"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "b53d8d5a48dfb09fd5f5e01afc5f1db3b2577abb829661d471afc03f4385c403"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "dd725eab3549e0954db4324ab7aa71242a47219c6b5b4b6d351b49e68427cbb3"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad71ff6d8cd43995a50293fc83100a45a756e931"
+git-tree-sha1 = "b9fcde93f5560783e633cc5f93ea57c62e2dc9a2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Trilinos.download]]
-    sha256 = "3bfcb4f73d87d53c271733180cdb62fd10df48421002d2eb6c7fb80a1b355ab4"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "b764dc437c0b12093bb90de19231b683ca42f62b2d2fd8a5ff9c906005d4583c"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
-git-tree-sha1 = "77c95fe06b86831ad253ec1b40e2ddf199f8d7eb"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[Trilinos.download]]
-    sha256 = "f16da5887268445c39c70073500fc18456a7bf220b13d613a4d9c18c859d12b5"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-unknown-freebsd-libgfortran3.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-git-tree-sha1 = "ce0027365b7b06c2eca83fb3627485839b29e6db"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[Trilinos.download]]
-    sha256 = "65e550929d04ffc143cd57e8607f2830d882e64003b8ed5119360303061c2dd5"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-unknown-freebsd-libgfortran4.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-git-tree-sha1 = "cca2c8cedcb3a539795e49d1aafc3e8b3d622430"
+git-tree-sha1 = "74758ff1536d9fa2636e5d94b5f40443cd08a7ba"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Trilinos.download]]
-    sha256 = "a8314fd97624046d133c841b21a87b713f46e9b666da3f4a8cee229484924628"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "9b4ff8aa9c77c1268b33c24a53f9e1c6aeb2522aee7690d0b6388937e7a02af3"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "85f20bbbceba4cf4c59b6e3e8801d05164767ad4"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "b9858bd1e367f172a37e83b95928f9ad9ed75f6a35b8f66cf7c3dcefa16a1bb7"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "73c5e56b051b664ffe70d80b73cdb4a5ae815341"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "a130b770aeceb1299ce0868b70450542eded4e333ced5081f454f05a76eb6740"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "eefa943f12ce99cb1fd4c2e0e5186176c4840db5"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "f6b72743f4fa3f5c762671a20a9e38b83adf056502a74a5052a25b01ee71aae2"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2e9ce42fb10ce2d9e8e86c99a90e796b5a243ece"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Trilinos.download]]
-    sha256 = "78d92efaef9f8a5fbc5a03dc96eab18b5117e14ce30093ece90d0587ddfc23ad"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
-[[Trilinos]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa9e4e4b1f29fdea0bd5985f57c29522e6dc90d7"
+git-tree-sha1 = "3d34b738d1e7939919e2099c2d25ddfed16c4824"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Trilinos.download]]
-    sha256 = "9613f679e74e1eb2624d01a9a8b6ea0170ce1c91713a8f4eae74872195459b35"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "c42f0558d438162cea6b8d43452a84a22d32f75e778cacface3d2e8a91a86121"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Trilinos]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4da706468894cf90df5267bca5fa87896773769"
+git-tree-sha1 = "7a148961b44ea3c72b3800f76666a21cb0cdb540"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Trilinos.download]]
-    sha256 = "cb44d10515d7cfcee3aef1f2be065346ee71d757fdbb0a86b817b39f31159761"
-    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v12.13.3+0/Trilinos.v12.13.3.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "057269240617f544beb525041fe313f82a2af3244c343955f32d0e15c2806c69"
+    url = "https://github.com/JuliaBinaryWrappers/Trilinos_jll.jl/releases/download/Trilinos-v14.4.0+0/Trilinos.v14.4.0.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"

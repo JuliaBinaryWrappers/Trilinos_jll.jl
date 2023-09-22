@@ -4,6 +4,7 @@ export libamesos, libaztecoo, libbelos, libbelosepetra, libepetra, libepetraext,
 using SuiteSparse_jll
 using libblastrampoline_jll
 using CompilerSupportLibraries_jll
+using Kokkos_jll
 JLLWrappers.@generate_wrapper_header("Trilinos")
 JLLWrappers.@declare_library_product(libamesos, "libamesos.dll")
 JLLWrappers.@declare_library_product(libaztecoo, "libaztecoo.dll")
@@ -31,7 +32,7 @@ JLLWrappers.@declare_library_product(libtrilinosss, "libtrilinosss.dll")
 JLLWrappers.@declare_library_product(libtriutils, "libtriutils.dll")
 JLLWrappers.@declare_library_product(libzoltan, "libzoltan.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(SuiteSparse_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(SuiteSparse_jll, libblastrampoline_jll, CompilerSupportLibraries_jll, Kokkos_jll)
     JLLWrappers.@init_library_product(
         libamesos,
         "bin\\libamesos.dll",
