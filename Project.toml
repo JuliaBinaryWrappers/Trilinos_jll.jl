@@ -1,6 +1,6 @@
 name = "Trilinos_jll"
 uuid = "b6fd3212-6f87-5999-b9ea-021e9cd21b17"
-version = "14.4.0+1"
+version = "14.4.0+2"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
